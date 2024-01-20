@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victor Shah</h1>
 <h3 align="center">Data Analyst in India, transforming raw data into actionable insights for optimal business performance in a competitive job market.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
+
 - 🔭 I’m currently working on **Rapid Roads: Road Safety through Intelligent Surviellance**
 
-- 🌱 I’m currently learning **I am expanding my proficiency in advanced data visualization techniques using tools like Tableau, PowerBi. Additionally, I am delving deeper into machine learning algorithms to enhance my predictive analytics skills.**
+- 🌱 **I am expanding my proficiency in advanced data visualization techniques using tools like Tableau, PowerBi. Additionally, I am delving deeper into machine learning algorithms to enhance my predictive analytics skills.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Victor-shah/Portfolio](https://github.com/Victor-shah/Portfolio)
 
