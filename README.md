@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Victor Shah</h1>
-<h3 align="center">Data Analyst in India, transforming raw data into actionable insights for optimal business performance in a competitive job market.</h3>
+<h3 align="center">AI Engineer in Dubai, UAE, building multi-stack LLM architectures that transform static business data into intelligent, autonomous agents.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 
 - 🔭 I’m currently working on **Rapid Roads: Road Safety through Intelligent Surviellance**
 
-- 🌱 **I am expanding my proficiency in advanced data visualization techniques using tools like Tableau, PowerBi. Additionally, I am delving deeper into machine learning algorithms to enhance my predictive analytics skills.**
+- 🌱 **I specialize in building production-grade Generative AI architectures and autonomous Agentic systems. Additionally, I engineer advanced RAG pipelines and high-performance APIs to transform complex enterprise data into intelligent solutions.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Victor-shah/Portfolio](https://github.com/Victor-shah/Portfolio)
 
-- 💬 Ask me about **Tools and implementation of data visualization through interactive dashboards**
+- 💬 Ask me about **Transforming complex enterprise data into intelligent, client-ready AI solutions.**
 
 - 📫 How to reach me **shah.victor30@gmail.com**
 
-- ⚡ Fun fact **I am a Foodaholic**
+- ⚡ Fun fact **I am a Surfer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
