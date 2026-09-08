@@ -6,7 +6,7 @@
 
 - 🌱 **I specialize in building production-grade Generative AI architectures and autonomous Agentic systems. Additionally, I engineer advanced RAG pipelines and high-performance APIs to transform complex enterprise data into intelligent solutions.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Victor-shah/Portfolio](https://github.com/Victor-shah/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Victor-shah/Portfolio]([https://github.com/Victor-shah/Portfolio](https://github.com/Victor-shah/Portfolios))
 
 - 💬 Ask me about **Transforming complex enterprise data into intelligent, client-ready AI solutions.**
 
